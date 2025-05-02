@@ -1,0 +1,13 @@
+.rounded-full{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.max-w-lg {
+    max-width: 700px !important;
+}
